@@ -300,39 +300,39 @@ header .icons #menu-bars{
     font-size: 2.5rem;
 }
 
-.about .row{
+.services .row{
     display: flex;
     flex-wrap: wrap;
     gap:1.5rem;
     align-items: center;
 }
 
-.about .row .image{
+.services .row .image{
     flex:1 1 45rem;
 }
 
-.about .row .image img{ 
+.services .row .image img{ 
     width: 100%;
 }
 
-.about .row .content{
+.services .row .content{
     flex:1 1 45rem;
 }
 
-.about .row .content h3{
+.services .row .content h3{
     color:var(--black);
     font-size: 4rem;
     padding:.5rem 0;
 }
 
-.about .row .content p{
+.services .row .content p{
     color:var(--light-color);
     font-size: 1.5rem;
     padding:.5rem 0;
     line-height: 2;
 }
 
-.about .row .content .icons-container{
+.services .row .content .icons-container{
     display: flex;
     gap:1rem;
     flex-wrap: wrap;
@@ -340,7 +340,7 @@ header .icons #menu-bars{
     margin-top: .5rem;
 }
 
-.about .row .content .icons-container .icons{
+.services .row .content .icons-container .icons{
     background:#eee;
     border-radius: .5rem;
     border:.1rem solid rgba(0,0,0,.2);
@@ -352,12 +352,12 @@ header .icons #menu-bars{
     padding:1.5rem 1rem;
 }
 
-.about .row .content .icons-container .icons i{
+.services .row .content .icons-container .icons i{
     font-size: 2.5rem;
     color:var(--crimson);
 }
 
-.about .row .content .icons-container .icons span{
+.services .row .content .icons-container .icons span{
     font-size: 1.5rem;
     color:var(--black);
 }
@@ -588,7 +588,7 @@ header .icons #menu-bars{
     font-size: 2rem;
     color:var(--black);
     padding:.5rem;
-    padding-top: 1.5rem;
+    padding-top: 2.5rem;
     margin-top: 1.5rem;
 }
 
