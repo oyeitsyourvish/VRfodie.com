@@ -290,7 +290,7 @@ header .icons #menu-bars{
 
 .dishes .box-container .box .stars i{
     font-size: 1.7rem;
-    color:var(--crimson);
+    color:green;
 }
 
 .dishes .box-container .box span{
@@ -437,7 +437,7 @@ header .icons #menu-bars{
 
 .menu .box-container .box .content .stars i{
    font-size: 1.7rem;
-   color:var(--crimson);
+   color:green;
 }
 
 .menu .box-container .box .content h3{
@@ -496,7 +496,7 @@ header .icons #menu-bars{
 
 .review .slide .user i{
     font-size: 1.3rem;
-    color:var(--crimson);
+    color:green;
 }
 
 .review .slide p{
