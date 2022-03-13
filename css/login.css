@@ -139,7 +139,10 @@ header .icons #menu-bars{
     height: 100vh;
     width: 100%;
     place-items: center;
-    background: #eee;
+    /* background: #eee; */
+    background-image: url("/images/bg1.jpg");
+    background-position: center;
+    background-size: cover;
 }
 .wrapper{
     overflow: hidden;
