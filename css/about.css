@@ -148,12 +148,13 @@ header .icons #menu-bars{
 .card{
     width: 90%;
     max-width: 390px;
-    color: #fff;
+    color: black;
+    background: #eee;
     margin: 0 10px;
     text-align: center;
     padding: 50px 35px;
-    border: 1px solid red;
-    border-radius: 30px;
+    /* border: 1px solid red; */
+    border-radius: 15px;
 }
 
 .card img{
@@ -175,6 +176,7 @@ header .icons #menu-bars{
     border-radius: 50%;
     margin: 10px 5px;
     transition: background 0.5s;
+    /* filter: invert(100%); */
 }
 .card .links img:hover{
     background: skyblue;
